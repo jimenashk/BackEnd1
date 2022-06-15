@@ -1,0 +1,298 @@
+[2022-05-27 11:25:03] [ INFO ] [Test:43] hola
+[2022-05-27 11:25:03] [ INFO ] [Test:44] hola
+[2022-05-27 11:25:18] [ INFO ] [Test:43] hola
+[2022-05-27 11:25:18] [ INFO ] [Test:44] hola
+[2022-05-27 11:26:54] [ INFO ] [Test:43] hola
+[2022-05-27 11:26:54] [ INFO ] [Test:44] hola
+[2022-05-27 11:29:34] [ INFO ] [Test:43] hola
+[2022-05-27 11:29:34] [ INFO ] [Test:44] hola
+[2022-05-27 11:32:57] [ INFO ] [Test:43] hola
+[2022-05-27 11:32:57] [ INFO ] [Test:44] hola
+[2022-05-27 11:33:25] [ INFO ] [Test:43] hola
+[2022-05-27 11:33:25] [ INFO ] [Test:44] hola
+[2022-05-27 11:34:34] [ INFO ] [Test:43] hola
+[2022-05-27 11:34:34] [ INFO ] [Test:44] hola
+[2022-05-27 11:35:08] [ INFO ] [Test:43] hola
+[2022-05-27 11:35:08] [ INFO ] [Test:44] hola
+[2022-05-27 11:45:54] [ INFO ] [Test:43] hola
+[2022-05-27 11:45:54] [ INFO ] [Test:44] hola
+[2022-05-27 11:49:30] [ INFO ] [Test:45] hola
+[2022-05-27 11:49:30] [ INFO ] [Test:46] hola
+[2022-05-27 11:52:19] [ DEBUG] [Test:47] Ha sido actualizada la informacion del siguiente empleado: 3 Caradagian 24 Ring 1998-05-17
+[2022-05-27 11:52:19] [ INFO ] [Test:59] Ha sido borrada la informacion del empleado: 5 apolo 25 sarasa 1996-05-15
+[2022-05-27 11:52:19] [ INFO ] [Test:77] Ha sido borrada la informacion del empleado: 4 el hombre de la barra de hielo 55 Ring 1998-05-17
+[2022-05-27 11:55:37] [ DEBUG] [Test:47] Ha sido actualizada la informacion del siguiente empleado: 3 Juan 24 Seguros SA 1998-05-17
+[2022-05-27 11:55:37] [ INFO ] [Test:59] Ha sido borrada la informacion del empleado: 5 Mariano 25 Klinor 1996-05-15
+[2022-05-27 13:29:31] [ DEBUG] [Test:47] Ha sido actualizada la informacion del siguiente empleado: 3 Juan 24 Seguros SA 1998-05-17
+[2022-05-27 13:29:31] [ INFO ] [Test:59] Ha sido borrada la informacion del empleado: 5 Mariano 25 Klinor 1996-05-15
+[2022-05-27 15:39:00] [ DEBUG] [Test:47] Ha sido actualizada la informacion del siguiente empleado: 3 Juan 24 Seguros SA 1998-05-17
+[2022-05-27 15:39:00] [ INFO ] [Test:59] Ha sido borrada la informacion del empleado: 5 Mariano 25 Klinor 1996-05-15
+[2022-05-27 16:35:10] [ DEBUG] [Test:47] Ha sido actualizada la informacion del siguiente empleado: 3 Juan 24 Seguros SA 1998-05-17
+[2022-05-27 16:35:10] [ INFO ] [Test:59] Ha sido borrada la informacion del empleado: 5 Mariano 25 Klinor 1996-05-15
+[2022-05-27 16:50:21] [ INFO ] [Test:43] hola
+[2022-05-27 16:50:21] [ INFO ] [Test:44] hola
+[2022-05-27 16:51:03] [ INFO ] [Test:43] hola
+[2022-05-27 16:51:03] [ INFO ] [Test:44] hola
+[2022-05-27 16:51:34] [ INFO ] [Test:43] hola
+[2022-05-27 16:51:34] [ INFO ] [Test:44] hola
+[2022-05-27 16:51:34] [ ERROR] [Test:52] error tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "INSERT INTO EMPLEADO VALUES(ID, NOMBRE, APELLIDO, EDAD, DIRECCION) [*]VALUES (1, Pino, Lopez, 43, Velez 456)"
+Syntax error in SQL statement "INSERT INTO EMPLEADO VALUES(ID, NOMBRE, APELLIDO, EDAD, DIRECCION) [*]VALUES (1, Pino, Lopez, 43, Velez 456)"; SQL statement:
+INSERT INTO EMPLEADO VALUES(ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, Pino, Lopez, 43, Velez 456) [42000-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.getSyntaxError(DbException.java:247)
+	at org.h2.command.Parser.getSyntaxError(Parser.java:905)
+	at org.h2.command.Parser.prepareCommand(Parser.java:571)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:237)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 16:51:34] [ INFO ] [Test:54] hola
+[2022-05-27 16:56:13] [ INFO ] [Test:43] hola
+[2022-05-27 16:56:13] [ INFO ] [Test:44] hola
+[2022-05-27 16:59:57] [ INFO ] [Test:43] hola
+[2022-05-27 16:59:57] [ INFO ] [Test:44] hola
+[2022-05-27 17:00:34] [ INFO ] [Test:43] hola
+[2022-05-27 17:00:34] [ INFO ] [Test:44] hola
+[2022-05-27 17:01:52] [ INFO ] [Test:43] hola
+[2022-05-27 17:01:52] [ INFO ] [Test:44] hola
+[2022-05-27 17:02:18] [ INFO ] [Test:43] hola
+[2022-05-27 17:02:18] [ INFO ] [Test:44] hola
+[2022-05-27 17:03:52] [ INFO ] [Test:43] hola
+[2022-05-27 17:03:52] [ INFO ] [Test:44] hola
+[2022-05-27 17:03:52] [ ERROR] [Test:52] error tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, Pino, Lopez, 43, Velez [*]456)"; se esperaba "(, ., [, ::, AT, FORMAT, *, /, %, +, -, ||, NOT, IS, ILIKE, REGEXP, AND, OR, ,, )"
+Syntax error in SQL statement "INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, Pino, Lopez, 43, Velez [*]456)"; expected "(, ., [, ::, AT, FORMAT, *, /, %, +, -, ||, NOT, IS, ILIKE, REGEXP, AND, OR, ,, )"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, Pino, Lopez, 43, Velez 456) [42001-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.getSyntaxError(DbException.java:261)
+	at org.h2.command.Parser.getSyntaxError(Parser.java:907)
+	at org.h2.command.Parser.read(Parser.java:5743)
+	at org.h2.command.Parser.readIfMore(Parser.java:1276)
+	at org.h2.command.Parser.parseValuesForCommand(Parser.java:1801)
+	at org.h2.command.Parser.parseInsert(Parser.java:1671)
+	at org.h2.command.Parser.parsePrepared(Parser.java:814)
+	at org.h2.command.Parser.parse(Parser.java:691)
+	at org.h2.command.Parser.parse(Parser.java:666)
+	at org.h2.command.Parser.prepareCommand(Parser.java:568)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:237)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:03:52] [ INFO ] [Test:54] hola
+[2022-05-27 17:05:06] [ INFO ] [Test:43] hola
+[2022-05-27 17:05:06] [ INFO ] [Test:44] hola
+[2022-05-27 17:05:06] [ ERROR] [Test:52] error tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:05:06] [ INFO ] [Test:54] hola
+[2022-05-27 17:05:06] [ DEBUG] [Test:60] Estamos actualizando la edad del empleado
+[2022-05-27 17:05:06] [ INFO ] [Test:66] Se elmino el empleado con ID 2
+[2022-05-27 17:05:33] [ INFO ] [Test:43] hola
+[2022-05-27 17:05:33] [ INFO ] [Test:44] hola
+[2022-05-27 17:05:33] [ ERROR] [Test:52] error tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:05:33] [ INFO ] [Test:54] hola
+[2022-05-27 17:05:33] [ DEBUG] [Test:60] Estamos actualizando la edad del empleado
+[2022-05-27 17:05:33] [ INFO ] [Test:66] Se elmino el empleado con ID 2
+[2022-05-27 17:06:01] [ INFO ] [Test:43] hola
+[2022-05-27 17:06:01] [ INFO ] [Test:44] hola
+[2022-05-27 17:06:01] [ ERROR] [Test:52] error tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:06:01] [ INFO ] [Test:54] hola
+[2022-05-27 17:06:01] [ DEBUG] [Test:60] Estamos actualizando la edad del empleado
+[2022-05-27 17:06:01] [ INFO ] [Test:66] Se elmino el empleado con ID 2
+[2022-05-27 17:06:01] [ INFO ] [Test:72] Se elmino el empleado con el nombre jorge
+[2022-05-27 17:06:54] [ INFO ] [Test:43] hola
+[2022-05-27 17:06:54] [ INFO ] [Test:44] hola
+[2022-05-27 17:06:54] [ INFO ] [Test:54] hola
+[2022-05-27 17:06:55] [ DEBUG] [Test:60] Estamos actualizando la edad del empleado
+[2022-05-27 17:06:55] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:06:55] [ INFO ] [Test:72] Se elmino el empleado con el nombre jorge
+[2022-05-27 17:09:46] [ INFO ] [Test:43] hola
+[2022-05-27 17:09:46] [ INFO ] [Test:44] hola
+[2022-05-27 17:09:46] [ INFO ] [Test:54] hola
+[2022-05-27 17:09:46] [ DEBUG] [Test:60] Estamos actualizando la edad del empleado
+[2022-05-27 17:09:46] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:09:46] [ INFO ] [Test:72] Se elmino el empleado con el nombre jorge
+[2022-05-27 17:10:54] [ INFO ] [Test:43] hola
+[2022-05-27 17:10:54] [ INFO ] [Test:44] hola
+[2022-05-27 17:10:54] [ INFO ] [Test:54] hola
+[2022-05-27 17:10:54] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:10:54] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:10:54] [ INFO ] [Test:72] Se elmino el empleado con el nombre jorge
+[2022-05-27 17:11:11] [ INFO ] [Test:43] hola
+[2022-05-27 17:11:11] [ INFO ] [Test:44] hola
+[2022-05-27 17:11:11] [ INFO ] [Test:54] hola
+[2022-05-27 17:11:11] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:11:11] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:11:11] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:23:59] [ INFO ] [Test:43] hola
+[2022-05-27 17:23:59] [ INFO ] [Test:44] hola
+[2022-05-27 17:23:59] [ INFO ] [Test:54] hola
+[2022-05-27 17:23:59] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:23:59] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:23:59] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:24:49] [ INFO ] [Test:43] primary key repetida
+[2022-05-27 17:24:49] [ INFO ] [Test:44] hola
+[2022-05-27 17:24:49] [ ERROR] [Test:52] ERROR tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:24:49] [ INFO ] [Test:54] hola
+[2022-05-27 17:24:49] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:24:49] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:24:49] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:25:19] [ INFO ] [Test:43] hola
+[2022-05-27 17:25:19] [ INFO ] [Test:44] primary key repetida
+[2022-05-27 17:25:19] [ ERROR] [Test:52] ERROR tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:25:19] [ INFO ] [Test:54] hola
+[2022-05-27 17:25:19] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:25:19] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:25:19] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:25:36] [ INFO ] [Test:43] primary key repetida
+[2022-05-27 17:25:36] [ INFO ] [Test:44] primary key repetida
+[2022-05-27 17:25:36] [ ERROR] [Test:52] ERROR tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:25:36] [ INFO ] [Test:54] hola
+[2022-05-27 17:25:36] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:25:36] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:25:36] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:26:04] [ INFO ] [Test:43] hola
+[2022-05-27 17:26:04] [ INFO ] [Test:44] hola
+[2022-05-27 17:26:04] [ INFO ] [Test:54] primary key repetida
+[2022-05-27 17:26:04] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:26:04] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:26:04] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:26:21] [ INFO ] [Test:43] hola
+[2022-05-27 17:26:21] [ INFO ] [Test:44] hola
+[2022-05-27 17:26:21] [ ERROR] [Test:52] ERROR tratando de insertar el empleado: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADO(ID) ( /* key:1 */ 1, 'Jorge', 45, 'Perez', 'Belgrano 456')"; SQL statement:
+INSERT INTO EMPLEADO (ID, NOMBRE, APELLIDO, EDAD, DIRECCION) VALUES (1, 'Maria', 'Lopez', 43, 'Velez 456') [23505-212]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:508)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at Test.main(Test.java:50)
+[2022-05-27 17:26:21] [ INFO ] [Test:54] primary key repetida
+[2022-05-27 17:26:21] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:26:21] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:26:21] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge
+[2022-05-27 17:26:42] [ INFO ] [Test:43] 
+[2022-05-27 17:26:42] [ INFO ] [Test:44] hola
+[2022-05-27 17:26:42] [ INFO ] [Test:54] hola
+[2022-05-27 17:26:42] [ DEBUG] [Test:60] ...Actualizando la edad del empleado
+[2022-05-27 17:26:42] [ INFO ] [Test:66] Se elimino el empleado con ID 2
+[2022-05-27 17:26:42] [ INFO ] [Test:72] Se elimino el empleado con el nombre jorge

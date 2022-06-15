@@ -1,0 +1,61 @@
+[2022-05-31 21:01:47] [ INFO ] [MedicamentoDaoH2:16] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:01:47] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado
+[2022-05-31 21:01:47] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:02:21] [ INFO ] [MedicamentoDaoH2:16] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:02:21] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado
+[2022-05-31 21:02:21] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:31:35] [ INFO ] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:31:35] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-05-31 21:31:35] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:31:54] [ DEBUG] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:31:54] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-05-31 21:31:54] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:32:58] [ DEBUG] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:32:58] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-05-31 21:32:58] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:32:58] [ INFO ] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-05-31 21:33:43] [ DEBUG] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:33:44] [ DEBUG] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-05-31 21:33:44] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:33:44] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-05-31 21:34:20] [ DEBUG] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-05-31 21:34:20] [ DEBUG] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-05-31 21:34:20] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-05-31 21:34:20] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 10:48:00] [ DEBUG] [MedicamentoDaoH2:15] Metodo guardar de MedicamentoDaoH2
+[2022-06-01 10:48:00] [ DEBUG] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 10:48:00] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-06-01 10:48:00] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 10:48:43] [ DEBUG] [MedicamentoDaoH2:15] Guardando Medicamento...
+[2022-06-01 10:48:43] [ DEBUG] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 10:48:43] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-06-01 10:48:43] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 19:49:57] [ INFO ] [MedicamentoDaoH2:15] Guardando Medicamento...
+[2022-06-01 19:49:57] [ INFO ] [MedicamentoDaoH2:30] conectando con Base de Datos...
+[2022-06-01 19:49:57] [ INFO ] [MedicamentoDaoH2:35] Medicamento guardado con exito
+[2022-06-01 19:49:57] [ DEBUG] [MedicamentoDaoH2:56] Buscando Medicamento con ID: 1
+[2022-06-01 19:49:57] [ DEBUG] [MedicamentoDaoH2:83] Medicamento encontrado con exito
+[2022-06-01 19:50:35] [ INFO ] [MedicamentoDaoH2:15] Guardando Medicamento...
+[2022-06-01 19:50:35] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 19:50:35] [ DEBUG] [MedicamentoDaoH2:55] Buscando Medicamento con ID: 1
+[2022-06-01 19:50:35] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 19:56:15] [ DEBUG] [MedicamentoDaoH2:15] Ejecucion de metodo guardar-medicamento
+[2022-06-01 19:56:15] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 19:56:15] [ DEBUG] [MedicamentoDaoH2:55] Ejecucion metodo buscar-medicamento: 1
+[2022-06-01 19:56:15] [ DEBUG] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 19:56:56] [ DEBUG] [MedicamentoDaoH2:15] Ejecucion metodo guardar-medicamento
+[2022-06-01 19:56:56] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 19:56:56] [ DEBUG] [MedicamentoDaoH2:55] Ejecucion metodo buscar-medicamento, ID: 1
+[2022-06-01 19:56:56] [ INFO ] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-01 20:28:18] [ DEBUG] [MedicamentoDaoH2:15] Ejecucion metodo guardar-medicamento
+[2022-06-01 20:28:18] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-01 20:28:18] [ DEBUG] [MedicamentoDaoH2:55] Ejecucion metodo buscar-medicamento, ID: 1
+[2022-06-01 20:28:18] [ INFO ] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-10 22:18:11] [ DEBUG] [MedicamentoDaoH2:15] Ejecucion metodo guardar-medicamento
+[2022-06-10 22:18:11] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-10 22:18:11] [ DEBUG] [MedicamentoDaoH2:55] Ejecucion metodo buscar-medicamento, ID: 1
+[2022-06-10 22:18:12] [ INFO ] [MedicamentoDaoH2:82] Medicamento encontrado con exito
+[2022-06-11 00:04:36] [ DEBUG] [MedicamentoDaoH2:15] Ejecucion metodo guardar-medicamento
+[2022-06-11 00:04:36] [ INFO ] [MedicamentoDaoH2:34] Medicamento guardado con exito
+[2022-06-11 00:04:36] [ DEBUG] [MedicamentoDaoH2:55] Ejecucion metodo buscar-medicamento, ID: 1
+[2022-06-11 00:04:36] [ INFO ] [MedicamentoDaoH2:82] Medicamento encontrado con exito

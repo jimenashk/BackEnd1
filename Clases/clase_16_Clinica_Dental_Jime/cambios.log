@@ -1,0 +1,202 @@
+[2022-06-01 17:26:40] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientException: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:26:41] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientException: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:26:41] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientException: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:26:41] [ INFO ] [PacienteDaoH2:111] Eliminando Paciente...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:128] ERROR: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:26:41] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:103] ERROR: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:26:41] [ INFO ] [PacienteDaoH2:135] Listando todos los pacientes...
+[2022-06-01 17:26:41] [ ERROR] [PacienteDaoH2:165] ERROR: IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-212]
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:59] Buscando domicilio...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:111] Eliminando Paciente...
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:135] Listando todos los pacientes...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:59] Buscando domicilio...
+[2022-06-01 17:28:02] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 17:28:02] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-01 17:28:02] [ ERROR] [PacienteDaoH2:165] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:65] ERROR: org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:111] Eliminando Paciente...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:128] ERROR: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:103] ERROR: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:01] [ INFO ] [PacienteDaoH2:135] Listando todos los pacientes...
+[2022-06-01 17:29:01] [ ERROR] [PacienteDaoH2:165] ERROR: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:27] Guardando paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:24] Guardando nuevo Paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:48] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:59] Buscando domicilio...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:111] Eliminando Paciente...
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:72] Buscando Paciente...
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:135] Listando todos los pacientes...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:59] Buscando domicilio...
+[2022-06-01 17:29:23] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 17:29:23] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-01 17:29:23] [ ERROR] [PacienteDaoH2:165] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]
+[2022-06-01 20:04:26] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:04:27] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:04:27] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:04:27] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:04:27] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:04:27] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:04:27] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:04:27] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:04:27] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:04:27] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-01 20:04:27] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-01 20:04:27] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 20:04:27] [ DEBUG] [PacienteDaoH2:111] Ejecucion metodo eliminar-Paciente
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-01 20:04:27] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:135] Ejecucion metodo buscarTodos-Pacientes
+[2022-06-01 20:04:27] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-01 20:04:27] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-01 20:04:27] [ INFO ] [PacienteDaoH2:162] Conexion finalizada
+[2022-06-01 20:04:27] [ ERROR] [PacienteDaoH2:166] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:28:46] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:28:46] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:28:46] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:28:46] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-01 20:28:46] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-01 20:28:46] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-01 20:28:46] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-01 20:28:46] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:111] Ejecucion metodo eliminar-Paciente
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-01 20:28:46] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:135] Ejecucion metodo buscarTodos-Pacientes
+[2022-06-01 20:28:46] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-01 20:28:46] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-01 20:28:46] [ INFO ] [PacienteDaoH2:162] Conexion finalizada
+[2022-06-01 20:28:46] [ ERROR] [PacienteDaoH2:166] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]
+[2022-06-02 09:01:13] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-02 09:01:14] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-02 09:01:14] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-02 09:01:14] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-02 09:01:14] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-02 09:01:14] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-02 09:01:14] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-02 09:01:14] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-02 09:01:14] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-02 09:01:14] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-02 09:01:14] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-02 09:01:14] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-02 09:01:14] [ DEBUG] [PacienteDaoH2:111] Ejecucion metodo eliminar-Paciente
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-02 09:01:14] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:135] Ejecucion metodo buscarTodos-Pacientes
+[2022-06-02 09:01:14] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-02 09:01:14] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-02 09:01:14] [ INFO ] [PacienteDaoH2:162] Conexion finalizada
+[2022-06-02 09:01:14] [ ERROR] [PacienteDaoH2:166] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-03 13:34:37] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-03 13:34:37] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-03 13:34:37] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-03 13:34:37] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:27] Ejecucion metodo guardar-Paciente
+[2022-06-03 13:34:37] [ DEBUG] [DomicilioDaoH2:24] Ejecucion metodo guardar-Domicilio
+[2022-06-03 13:34:37] [ INFO ] [DomicilioDaoH2:48] Domicilio guardado con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:60] Paciente guardado con exito
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-03 13:34:37] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-03 13:34:37] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:111] Ejecucion metodo eliminar-Paciente
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:124] Paciente eliminado con exito
+[2022-06-03 13:34:37] [ DEBUG] [PacienteDaoH2:72] Ejecucion metodo buscar-Paciente
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:99] Paciente encontrado con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:135] Ejecucion metodo buscarTodos-Pacientes
+[2022-06-03 13:34:37] [ DEBUG] [DomicilioDaoH2:59] Ejecucion metodo buscar-Domicilio
+[2022-06-03 13:34:37] [ INFO ] [DomicilioDaoH2:84] Se encontro el domicilio con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:161] Pacientes listados con exito
+[2022-06-03 13:34:37] [ INFO ] [PacienteDaoH2:162] Conexion finalizada
+[2022-06-03 13:34:37] [ ERROR] [PacienteDaoH2:166] ERROR: El objeto ya está cerrado
+The object is already closed [90007-212]

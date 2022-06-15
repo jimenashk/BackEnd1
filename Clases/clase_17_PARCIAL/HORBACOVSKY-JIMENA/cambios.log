@@ -1,0 +1,303 @@
+[2022-06-02 14:21:29] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-02 14:21:29] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-02 14:21:29] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-02 14:21:29] [ ERROR] [OdontologoDAOH2:161] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-02 14:21:39] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:21:39] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:21:39] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:21:39] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:23:15] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:23:15] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:23:15] [ ERROR] [OdontologoDAOH2:53] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO odontologos(numeroMatricula,nombre,apellido) VALUES (?,?,?) [42122-212]
+[2022-06-02 14:23:16] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:28:27] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:27] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 1
+[2022-06-02 14:28:27] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:27] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 2
+[2022-06-02 14:28:27] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:27] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 3
+[2022-06-02 14:28:28] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:28:28] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:28:28] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:28:28] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:28:58] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 4
+[2022-06-02 14:28:58] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 5
+[2022-06-02 14:28:58] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 6
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:28:58] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:32:20] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 7
+[2022-06-02 14:32:20] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 8
+[2022-06-02 14:32:20] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 9
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:32:20] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:41:10] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 10
+[2022-06-02 14:41:10] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 11
+[2022-06-02 14:41:10] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 12
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:41:10] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:52:03] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 13
+[2022-06-02 14:52:03] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 14
+[2022-06-02 14:52:03] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 15
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 14:52:03] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 16
+[2022-06-02 15:29:09] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 17
+[2022-06-02 15:29:09] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 18
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-02 15:29:09] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 19
+[2022-06-03 10:31:12] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 20
+[2022-06-03 10:31:12] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 21
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:19 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:20 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-03 10:31:12] [ INFO ] [OdontologoDAOH2:155] Odontologo:21 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 22
+[2022-06-04 14:35:24] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 23
+[2022-06-04 14:35:24] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 24
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:19 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:20 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:21 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:22 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:23 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-04 14:35:24] [ INFO ] [OdontologoDAOH2:155] Odontologo:24 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 25
+[2022-06-06 11:51:16] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 26
+[2022-06-06 11:51:16] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 27
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:19 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:20 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:21 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:22 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:23 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:24 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:25 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:26 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 11:51:16] [ INFO ] [OdontologoDAOH2:155] Odontologo:27 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 28
+[2022-06-06 13:25:55] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 29
+[2022-06-06 13:25:55] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 30
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:19 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:20 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:21 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:22 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:23 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:24 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:25 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:26 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:27 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:28 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:29 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-06 13:25:55] [ INFO ] [OdontologoDAOH2:155] Odontologo:30 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Jeremias Romero, con id 31
+[2022-06-10 14:32:40] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Lucia Martinez, con id 32
+[2022-06-10 14:32:40] [ DEBUG] [OdontologoDAOH2:38] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:46] Se cargo el odontologo Julia Pereira, con id 33
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:141] Odontologos encontrados con exito
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:1 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:2 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:3 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:4 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:5 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:6 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:7 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:8 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:9 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:10 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:11 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:12 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:13 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:14 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:15 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:16 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:17 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:18 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:19 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:20 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:21 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:22 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:23 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:24 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:25 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:26 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:27 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:28 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:29 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:30 Julia Pereira, numero matricula 9654 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:31 Jeremias Romero, numero matricula 3876 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:32 Lucia Martinez, numero matricula 6521 Fue encontrado
+[2022-06-10 14:32:40] [ INFO ] [OdontologoDAOH2:155] Odontologo:33 Julia Pereira, numero matricula 9654 Fue encontrado

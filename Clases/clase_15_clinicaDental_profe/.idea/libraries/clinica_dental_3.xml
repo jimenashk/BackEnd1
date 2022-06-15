@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="clinica-dental 3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/clinica-dental 3/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/clinica-dental 3/h2-2.1.212.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

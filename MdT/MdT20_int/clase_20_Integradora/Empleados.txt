@@ -1,0 +1,4 @@
+Mariana; Perez; 1; $70500
+Lucas; Martinez; 2; $55000
+Matias; Roque; 3; $45250
+Natalia; Molina; 4; $65500

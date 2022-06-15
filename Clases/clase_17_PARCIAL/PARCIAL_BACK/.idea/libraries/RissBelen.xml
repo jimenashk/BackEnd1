@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RissBelen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RissBelen.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

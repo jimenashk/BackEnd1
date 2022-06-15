@@ -1,0 +1,129 @@
+[2022-03-23 22:26:16] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:26:17] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:26:18] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:26:19] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:26:19] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:26:19] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:26:20] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:15] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:15] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:17] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:18] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:18] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:18] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:40] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:40] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:42] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:42] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:42] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:42] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:43] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:43] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:27:43] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:27:43] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:27:43] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO odontologo VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:27:43] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:29:55] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:29:55] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:29:58] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:29:59] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:29:59] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:29:59] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:29:59] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:30:01] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:30:01] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:30:01] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:30:01] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:30:01] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:35:33] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:35:33] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:35:35] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:35:36] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:35:36] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:35:36] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:35:36] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:35:37] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 22:35:37] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 22:35:37] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 22:35:37] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 22:35:37] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:02:02] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:02:02] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:02:04] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:02:05] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:02:05] [ ERROR] [OdontologoDaoH2:29] error: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES(?,?,?,?) [42104-210]
+[2022-03-23 23:02:05] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:04:58] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:04:58] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:05:00] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:39:17] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:39:17] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:39:20] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:39:20] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:39:20] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:39:20] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:39:20] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:39:21] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-03-23 23:39:21] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-03-23 23:39:21] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-03-23 23:39:21] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-03-23 23:39:21] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-06-01 21:13:29] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-06-01 21:13:29] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-06-01 21:13:29] [ ERROR] [OdontologoDaoH2:29] error: org.h2.Driver
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:14] Metodo guardar de odontologoDaoH2
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:80] Conectandose a la base de datos
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:25] Odontologo guardado
+[2022-06-01 21:13:58] [ INFO ] [OdontologoDaoH2:33] Conexion cerrada

@@ -1,0 +1,243 @@
+[2022-06-01 11:08:07] [ DEBUG] [AvionDaoH2:26] Registrando Avion...
+[2022-06-01 11:08:08] [ ERROR] [AvionDaoH2:49] ERROR: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-01 11:09:12] [ DEBUG] [AvionDaoH2:25] Registrando Avion...
+[2022-06-01 11:09:12] [ ERROR] [AvionDaoH2:48] ERROR: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 11:09:13] [ DEBUG] [AvionDaoH2:25] Registrando Avion...
+[2022-06-01 11:09:13] [ ERROR] [AvionDaoH2:48] ERROR: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-06-01 11:09:30] [ DEBUG] [AvionDaoH2:25] Registrando Avion...
+[2022-06-01 11:09:30] [ ERROR] [AvionDaoH2:48] ERROR: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-01 11:10:49] [ DEBUG] [AvionDaoH2:25] Registrando Avion...
+[2022-06-01 11:10:50] [ ERROR] [AvionDaoH2:48] ERROR: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:36] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:36] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:36] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:59] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:59] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 10:55:59] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:03:53] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:03:53] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:03:53] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:05:06] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:05:06] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:05:06] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fechaAltaServicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:06:54] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:06:54] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:06:54] [ ERROR] [AvionDaoH2:48] org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVION" not found (this database is empty); SQL statement:
+INSERT INTO AVION (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [42104-212]
+[2022-06-02 11:12:20] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:20] [ INFO ] [AvionDaoH2:39] Se cargo el Avion Jet-Pack Force-XL654, con id 1
+[2022-06-02 11:12:20] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:20] [ INFO ] [AvionDaoH2:39] Se cargo el Avion Cargo-XL Traine-WSL, con id 2
+[2022-06-02 11:12:20] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:20] [ INFO ] [AvionDaoH2:39] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 3
+[2022-06-02 11:12:33] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:33] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-02 11:12:33] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:33] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-02 11:12:33] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:33] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-02 11:12:38] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:38] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-02 11:12:38] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:38] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-02 11:12:38] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-02 11:12:38] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:39:04] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:39:04] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:39:04] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:39:04] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:39:04] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:39:04] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:40:12] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:40:12] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:40:12] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:40:12] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:40:12] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:40:12] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:41:06] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:41:06] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:41:06] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:41:06] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:41:06] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:41:06] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:52:58] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:52:58] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 1, 'Jet-Pack', 'Force-XL654', 'ABC6542', '2022-02-16')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:52:58] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:52:58] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 2, 'Cargo-XL', 'Traine-WSL', 'DFC658', '2015-12-26')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:52:58] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:52:58] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.AVION(ID) ( /* key:0 */ 3, 'Turbo-KLG', 'Jumbo-KD65', 'WED325', '2018-09-15')"; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [23505-212]
+[2022-06-03 10:57:41] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:57:41] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [90012-212]
+[2022-06-03 10:57:41] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:57:41] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [90012-212]
+[2022-06-03 10:57:41] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 10:57:41] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO avion (id, marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [90012-212]
+[2022-06-03 10:58:07] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLSyntaxErrorException: La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [21002-212]
+[2022-06-03 10:58:07] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLSyntaxErrorException: La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [21002-212]
+[2022-06-03 10:58:07] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLSyntaxErrorException: La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?,?) [21002-212]
+[2022-06-03 10:58:21] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Valor Invalido "5" para el parametro "parameterIndex"
+Invalid value "5" for parameter "parameterIndex" [90008-212]
+[2022-06-03 10:58:21] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Valor Invalido "5" para el parametro "parameterIndex"
+Invalid value "5" for parameter "parameterIndex" [90008-212]
+[2022-06-03 10:58:21] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLDataException: Valor Invalido "5" para el parametro "parameterIndex"
+Invalid value "5" for parameter "parameterIndex" [90008-212]
+[2022-06-03 11:00:17] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:00:17] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:00:17] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:00:17] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:00:17] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:00:17] [ ERROR] [AvionDaoH2:45] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:01] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:01] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:01] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:01] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:01] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:01] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:48] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:48] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:48] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:48] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:02:48] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:02:48] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:04:21] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:04:21] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:04:21] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:04:21] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:04:21] [ DEBUG] [AvionDaoH2:36] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:04:21] [ ERROR] [AvionDaoH2:49] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion (marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:11:41] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:41] [ ERROR] [AvionDaoH2:51] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion(marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:11:41] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:41] [ ERROR] [AvionDaoH2:51] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion(marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:11:41] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:41] [ ERROR] [AvionDaoH2:51] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: La columna "ID" no permite valores nulos (NULL)
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO avion(marca, modelo, matricula, fecha_alta_servicio) VALUES (?,?,?,?) [23502-212]
+[2022-06-03 11:11:53] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:53] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Jet-Pack Force-XL654, con id 1
+[2022-06-03 11:11:53] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:53] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Cargo-XL Traine-WSL, con id 2
+[2022-06-03 11:11:53] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:11:53] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 3
+[2022-06-03 11:13:52] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:13:52] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Jet-Pack Force-XL654, con id 4
+[2022-06-03 11:13:52] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:13:52] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Cargo-XL Traine-WSL, con id 5
+[2022-06-03 11:13:52] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:13:52] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 6
+[2022-06-03 11:32:59] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:32:59] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Jet-Pack Force-XL654, con id 7
+[2022-06-03 11:32:59] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:32:59] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Cargo-XL Traine-WSL, con id 8
+[2022-06-03 11:32:59] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:32:59] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 9
+[2022-06-03 11:33:40] [ INFO ] [AvionDaoH2:132] Aviones encontrados con exito
+[2022-06-03 11:33:40] [ ERROR] [AvionDaoH2:153] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "Fecha Alta Servicio" no encontrada
+Column "Fecha Alta Servicio" not found [42122-212]
+[2022-06-03 11:33:40] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:33:40] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Jet-Pack Force-XL654, con id 10
+[2022-06-03 11:33:40] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:33:40] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Cargo-XL Traine-WSL, con id 11
+[2022-06-03 11:33:40] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:33:40] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 12
+[2022-06-03 11:34:21] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:34:21] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Jet-Pack Force-XL654, con id 13
+[2022-06-03 11:34:21] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:34:21] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Cargo-XL Traine-WSL, con id 14
+[2022-06-03 11:34:21] [ DEBUG] [AvionDaoH2:37] ------------- CARGANDO AVION ------------------
+[2022-06-03 11:34:21] [ INFO ] [AvionDaoH2:45] Se cargo el Avion Turbo-KLG Jumbo-KD65, con id 15

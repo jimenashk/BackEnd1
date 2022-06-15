@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MdT23_int.iml" filepath="$PROJECT_DIR$/.idea/MdT23_int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplo-integrador/ejemplo-integrador.iml" filepath="$PROJECT_DIR$/ejemplo-integrador/ejemplo-integrador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integradora/integradora.iml" filepath="$PROJECT_DIR$/integradora/integradora.iml" />
+    </modules>
+  </component>
+</project>

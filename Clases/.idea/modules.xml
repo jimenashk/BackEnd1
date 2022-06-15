@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Clases.iml" filepath="$PROJECT_DIR$/.idea/Clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_5/GoogleDriveProxy/GoogleDriveProxy.iml" filepath="$PROJECT_DIR$/clase_5/GoogleDriveProxy/GoogleDriveProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_1/Persona/Persona.iml" filepath="$PROJECT_DIR$/clase_1/Persona/Persona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_1/animalTest/animalTest.iml" filepath="$PROJECT_DIR$/clase_1/animalTest/animalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_4/clase_4.iml" filepath="$PROJECT_DIR$/clase_4/clase_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_2/empleado/empleado.iml" filepath="$PROJECT_DIR$/clase_2/empleado/empleado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_2/sistemaPagos/sistemaPagos.iml" filepath="$PROJECT_DIR$/clase_2/sistemaPagos/sistemaPagos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_5/vacunasClasePeter/vacunasClasePeter.iml" filepath="$PROJECT_DIR$/clase_5/vacunasClasePeter/vacunasClasePeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_5/vacunas_Jime/vacunas_Jime.iml" filepath="$PROJECT_DIR$/clase_5/vacunas_Jime/vacunas_Jime.iml" />
+    </modules>
+  </component>
+</project>

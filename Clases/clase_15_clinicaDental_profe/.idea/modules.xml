@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/clase_15_clinicaDental_profe.iml" filepath="$PROJECT_DIR$/.idea/clase_15_clinicaDental_profe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-dental/clinica-dental.iml" filepath="$PROJECT_DIR$/clinica-dental/clinica-dental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-dental 3/clinica-dental 3.iml" filepath="$PROJECT_DIR$/clinica-dental 3/clinica-dental 3.iml" />
+    </modules>
+  </component>
+</project>
