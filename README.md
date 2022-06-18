@@ -1,5 +1,5 @@
 # BackEnd1
-Ejercicios y Mdt de Back End 1 CTD
+Ejercicios de Back End 1 CTD
 CLASES: 
 1-test JUnit
 2-empleado
@@ -23,7 +23,7 @@ CLASES:
 
 *****************
 
-MdT
+Mesas de trabajo de Back End 1 CTD
 1-Junit
 2
 4-Cadena Resp
