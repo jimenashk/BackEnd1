@@ -45,5 +45,7 @@ Mesas de trabajo de Back End 1 CTD
 21-maven Paciente
 22-MVC
 23-integradora
+31-ORM
+33-springData
 
 
