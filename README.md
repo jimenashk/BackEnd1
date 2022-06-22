@@ -20,6 +20,9 @@ CLASES:
 22-MVC
 25-API rfest
 28-consumiendo APIs
+31-ORM
+33-spring Data
+34-HQL
 
 *****************
 
